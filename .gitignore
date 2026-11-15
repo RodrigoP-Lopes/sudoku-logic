@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.DS_Store
+.env
+.env.local
+android/
+ios/
+
+# Added for Android release artefacts and Firebase config
+google-services.json
+GoogleService-Info.plist
+*.keystore
+*.aab

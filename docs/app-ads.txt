@@ -1,0 +1,9 @@
+# app-ads.txt for Sudoku Logic
+#
+# Replace pub-0000000000000000 with your own AdMob publisher ID (AdMob > Account > Account
+# information, the "pub-..." value in your app ID). Then:
+#   1. Serve this file at https://YOUR-DOMAIN/app-ads.txt  (root of the domain, not a subpath)
+#   2. Put that same domain in Play Console > the developer website field of your listing
+#   3. Wait up to 24h, then check AdMob > apps > app-ads.txt status
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
